@@ -2,7 +2,8 @@
 
 Pay-per-unlock access to independent artists' music on **DIGITVL**, paid in **USDC on Algorand mainnet** over the **x402** protocol and settled through the **GoPlausible facilitator**.
 
-**Live:** https://digitvl-x402-gateway-production.up.railway.app
+**Live:** https://digitvl-x402-gateway-production.up.railway.app  
+**Demo video (3:25):** https://github.com/georgejr6/digitvl-x402-gateway/releases/download/v1.0/DIGITVL_x402_demo.mp4
 
 | Endpoint | Price | What it does |
 |---|---|---|
