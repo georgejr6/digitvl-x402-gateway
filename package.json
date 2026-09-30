@@ -1,0 +1,18 @@
+{
+  "name": "digitvl-x402-gateway",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "tsx index.ts" },
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "@hono/node-server": "^1.11.0",
+    "@x402/avm": "^2.11.0",
+    "@x402/core": "^2.11.0",
+    "@x402/hono": "^2.11.0",
+    "@x402-avm/extensions": "^2.6.1",
+    "hono": "^4.1.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.4.0"
+  }
+}
